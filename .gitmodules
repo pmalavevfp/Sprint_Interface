@@ -1,0 +1,3 @@
+[submodule "libro"]
+	path = libro
+	url = git@github.com:pmalavevfp/libro.git
